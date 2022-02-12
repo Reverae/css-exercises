@@ -56,15 +56,16 @@ ul {
   padding: 0;
 }
 
-.right-side {
+.left, .right-side {
   display: flex;
   justify-content: right;
   align-items: center;
   gap: 16px;
 }
 
+/* this can be grouped with .right as eddited
 .left-side {
   display: flex;
   align-items: center;
   gap: 16px;
-}
+} */
