@@ -2,12 +2,11 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  flex-flow: row nowrap;
+  /*flex-flow: row nowrap;*/
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  height: 10px;
-}
+  }
 
 .logo {
   font-size: 48px;
